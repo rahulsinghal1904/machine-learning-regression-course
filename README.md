@@ -1,2 +1,2 @@
 # machine-learning-regression-course
-This is the second course of MACHINE LEARNING specialization.
+This contains the files of second course of MACHINE LEARNING specialization.
